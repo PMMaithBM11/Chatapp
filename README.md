@@ -1,16 +1,13 @@
-# React Firebase Super Chat
 
-A simple fullstack chat demo with React and Firebase. 
+# Open.Mind
+
+A fullstack chat application made with React and Firebase to foster effective communication and bring out innovative ideas.
 
 ## Made by 
 Piyush Mishra 
 21JE0654
 BTech-Department of Mechanical Engineering
 IIT(ISM) Dhanbad
-
-# Open.Mind
-
-A chat application to foster effective communication and bring out innovative ideas.
 
 ---
 ## Requirements
